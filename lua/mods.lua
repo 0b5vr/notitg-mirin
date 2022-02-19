@@ -1,3 +1,5 @@
+require( 'automirin' )
+
 if not P1 or not P2 then
 	backToSongWheel('Two Player Mode Required')
 	return
